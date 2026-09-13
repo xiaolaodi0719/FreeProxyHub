@@ -253,8 +253,6 @@ https://raw.githubusercontent.com/xiaolaodi0719/FreeProxyHub/main/data/subscribe
 
 ## 🖼️ 订阅卡片
 
-如果仓库主页需要更醒目的效果，可以使用 HTML 卡片：
-
 <div align="center">
 
 <table> <tr> <td align="center" width="300">
