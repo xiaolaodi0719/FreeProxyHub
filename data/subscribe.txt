@@ -57,7 +57,7 @@ vless://26524cce-d514-4014-a426-365fb266a14d@1.227.49.246:29090?type=ws&security
 vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@1.65.209.123:443?type=ws&security=tls&sni=cv.ylka.dpdns.org&fp=random#WzE1MTJdW0hLXVswXVtWTEVTU11bTm9uZV1bZXh0X3Jhdy5naXRodWJ1c2VyY29udGVudC5jb21dWzIwMjYtMDgtMTZdWzIwMjYtMDgtMTYgMDA6MzRd
 vless://e384913f-8863-47b4-8858-a84b68abb4a6@1.cdnconn.com:23335?type=tcp&security=tls&security=reality&flow=xtls-rprx-vision&sni=icloud.com&pbk=7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik&fp=chrome#WzM3OTY4XVtNRF1bMF1bVkxFU1NdW05vbmVdW2V4dF9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tXVsyMDI2LTA4LTE2XVsyMDI2LTA4LTE2IDAwOjM0XQ==
 vless://23240094-d544-6d31-94d5-2416b8ef9dc2@1.clubban.ir:2083?type=tcp&security=tls#WzU2MTddW1VuUmVzb2x2ZWREb21haW5zXVswXVtWTEVTU11bTm9uZV1bZXh0X3Jhdy5naXRodWJ1c2VyY29udGVudC5jb21dWzIwMjYtMDgtMTZdWzIwMjYtMDgtMTYgMDA6MzRd
-vless://62e499fe-458e-47da-a0c8-cae69144ebe9@1.i0-4.De5.nEt:443?type=ws&security=tls&sni=1.i0-4.De5.nEt&fp=chrome#NFNhcmluYS05MzBmNWJmNDYy
+vless://62e499fe-458e-47da-a0c8-cae69144ebe9@1.i0-4.De5.nEt:443?type=ws&security=tls&sni=1.i0-4.De5.nEt&fp=chrome#W09wZW5SYXldIER5bmFtaWMtMzAyNTk=
 vless://45ab962c-0e61-464b-ddc6-5fdd7338398f@1.iranazizm.com:8443?type=xhttp&security=tls&sni=jokerv.membergolabi.ir.&fp=chrome#NE5pa2EtN2JkZjhlMWRjMw==
 vless://c805b05e-339d-40e0-8787-432d97a27345@1.kkcweb.ir:2083?type=ws&security=tls&sni=hajames.amirconfigpaanelllll.com#5pyq55+lIFZMRVNTLTk5IHwgZnJlZS1ub2Rlcw==
 vless://24b04275-3faf-49dc-995a-916433bce6a9@1.next.westlaw.com:8443?type=xhttp&security=tls&sni=panel.eightseek3.qzz.io&fp=chrome#IEJ5IEVicmFTaGE=

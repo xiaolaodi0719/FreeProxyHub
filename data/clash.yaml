@@ -1,5 +1,5 @@
 # FreeProxyHub 订阅
-# 更新时间: 2026-09-26 15:54:18
+# 更新时间: 2026-09-26 20:42:42
 # 节点数: 300
 # 注意: 免费节点可能不稳定，请自行验证
 
@@ -69,7 +69,7 @@ proxies:
   - {name: "[1512][HK][0][VLESS][None][ext", type: vless, server: 1.65.209.123, port: 443, uuid: "06e4425e-a8cb-4b63-929f-2105604ab0a9", tls: true, network: "ws"}
   - {name: "[37968][MD][0][VLESS][None][ex", type: vless, server: 1.cdnconn.com, port: 23335, uuid: "e384913f-8863-47b4-8858-a84b68abb4a6", flow: "xtls-rprx-vision", tls: true, servername: "icloud.com", network: "tcp"}
   - {name: "[5617][UnResolvedDomains][0][V", type: vless, server: 1.clubban.ir, port: 2083, uuid: "23240094-d544-6d31-94d5-2416b8ef9dc2", tls: true, network: "tcp"}
-  - {name: "4Sarina-930f5bf462", type: vless, server: 1.i0-4.De5.nEt, port: 443, uuid: "62e499fe-458e-47da-a0c8-cae69144ebe9", tls: true, network: "ws"}
+  - {name: "[OpenRay]_Dynamic-30259", type: vless, server: 1.i0-4.De5.nEt, port: 443, uuid: "62e499fe-458e-47da-a0c8-cae69144ebe9", tls: true, network: "ws"}
   - {name: "4Nika-7bdf8e1dc3", type: vless, server: 1.iranazizm.com, port: 8443, uuid: "45ab962c-0e61-464b-ddc6-5fdd7338398f", tls: true, network: "xhttp"}
   - {name: "未知_VLESS-99___free-nodes", type: vless, server: 1.kkcweb.ir, port: 2083, uuid: "c805b05e-339d-40e0-8787-432d97a27345", tls: true, network: "ws"}
   - {name: "_By_EbraSha", type: vless, server: 1.next.westlaw.com, port: 8443, uuid: "24b04275-3faf-49dc-995a-916433bce6a9", tls: true, network: "xhttp"}
